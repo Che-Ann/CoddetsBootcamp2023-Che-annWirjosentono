@@ -14,33 +14,28 @@ Setting up my GitHub account\
 Creating a website for my documentation.\
 Online to Offline and Offline to Online
 
+
+
 -Signed up in GitHub
 
 -Downloaded GitHub desktop:\
-[https://desktop.github.com/
-
-](https://desktop.github.com/)
+https://desktop.github.com/
 
 -Downloaded NotePad(text editor):\
-[https://notepad-plus-plus.org/downloads/v8.4.9/
-
-](https://notepad-plus-plus.org/downloads/v8.4.9/)
+https://notepad-plus-plus.org/downloads/v8.4.9/
 
 -Downloaded Mkdocs and but it in my github file\
 (file name: CoddetsBootcamp2023-Che-annWirjosentono):\
 <https://drive.google.com/drive/folders/1rEbBA5UYhnrQrHGsEiU3D2dWEZyIuBi2?usp=sharing>
 
 -Online to Offline, Pull:\
-[https://github.com/Che-Ann/CoddetsBootcamp2023-Che-annWirjosentono/blob/main/docs/index.md
-
-](https://github.com/Che-Ann/CoddetsBootcamp2023-Che-annWirjosentono/blob/main/docs/index.md)
+https://github.com/Che-Ann/CoddetsBootcamp2023-Che-annWirjosentono/blob/main/docs/index.md
 
 -Offline to online, Push
 
 -Website:\
-[https://che-ann.github.io/CoddetsBootcamp2023-Che-annWirjosentono/
+https://che-ann.github.io/CoddetsBootcamp2023-Che-annWirjosentono/
 
-](https://che-ann.github.io/CoddetsBootcamp2023-Che-annWirjosentono/)
 
 
 Mistakes: Forgot to pull origin of pre-existing changes I made.
