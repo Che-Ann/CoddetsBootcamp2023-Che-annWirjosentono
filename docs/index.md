@@ -1,63 +1,37 @@
-ABOUT ME
+Coddets Bootcamp2023 journey
 
-Hello! My name is Che-ann Wirjosentono and I am 15 years old. I'm from Santo Boma, Wanica.\
-I am currently in VWO 4. I want to join the Inno-Starter because I want to become more experienced with computers, coding and making robotics.
+About me\
+My name is Che-ann Wirjosentono, I'm 16 years old.\
+I am currently in VWO 4 and hope to become more experience in the tech category.
 
-![](https://lh6.googleusercontent.com/UJ7sGF9y7oD9eaQpmPWVzNho25bGEWkP7apa8c6DsKa38KZCGaVC6XiVU6WbAy2w5EArFyxGynuRTBaL4TEqTgERTlihr0_rCtZaceFTR7E_0voiAL8m3NYsnoVEusaNFiC2ZESiFbVpr6Qg4bqezuQ)\
---------------------
+![](https://lh5.googleusercontent.com/pOJhhLeL_j1xBzbz3579YzZ1aqOCwrbPwVzmUfk9dS7QC93bHfXTyGuKwMVycWHCL_2GIsYC0PRILc4LGin0L1OnUBk3GFK8i-CXWFbMdFyjQQg2zRrxWMnfPwE31URs3BsSNNigh6GtoJWTd8RAsXY)
 
-====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+Day1\
+![](https://lh5.googleusercontent.com/JnnouEnJ-3QiMwq29MaWs_j48YRJjZ6fHnz-xa74393EHPot1_zRsrZ1DexJjFY8B18okmyUyBnGn3LjLs-ahkH6oUViHjECszxwwEq2ESzci_6p3YmRoD-vSb386cZY07zrecd8AHk86gWnyfjZBGE)
 
-Day 1 (5 september 2022)
+Objective:  Project management\
+Setting up my GitHub account\
+Creating a website for my documentation.\
+Online to Offline and Offline to Online
 
-Objective:\
-Introduction to tinkercad\
-Introduction to simple, serie and parallel circuits
-========================================================================================================================
+-Signed up in GitHub
 
-Introduction to the basic components
+-Downloaded GitHub desktop:\
+[https://desktop.github.com/
 
-Built a basic blinking.
+](https://desktop.github.com/)-Downloaded NotePad(text editor):\
+[https://notepad-plus-plus.org/downloads/v8.4.9/
 
-#### Component List :  Arduino uno R3  9V battery
+](https://notepad-plus-plus.org/downloads/v8.4.9/)-Downloaded Mkdocs and but it in my github file\
+(file name: CoddetsBootcamp2023-Che-annWirjosentono):\
+[https://drive.google.com/drive/folders/1rEbBA5UYhnrQrHGsEiU3D2dWEZyIuBi2?usp=sharing
 
-Resistors  1.5V battery
+](https://drive.google.com/drive/folders/1rEbBA5UYhnrQrHGsEiU3D2dWEZyIuBi2?usp=sharing)-Online to Offline, Pull:\
+[https://github.com/Che-Ann/CoddetsBootcamp2023-Che-annWirjosentono/blob/main/docs/index.md
 
-Breadboard  Multimeters
+](https://github.com/Che-Ann/CoddetsBootcamp2023-Che-annWirjosentono/blob/main/docs/index.md)-Offline to online, Push
 
-LEDs  Diode
+-Website:\
+[https://che-ann.github.io/CoddetsBootcamp2023-Che-annWirjosentono/
 
-Pushbutton
-
-HandsOn (Circuits Physical ) (screenshots):\
-First we learned to make a simple circuit. You do that by connecting a LED with a battery.
-
-For a LED not to burst there needs to be a resistor in the circuit.\
-A resistor is an electrical component that limits or regulates the flow of electrical current in an electronic circuit.
-
-We made a series circuit. For that u need to connect the LEDs to each other and then to the battery. A series circuit is defined as having only one path through which current can flow
-
-For the parallel circuit we had to connect all the LEDs to the battery using a diode.\
-A parallel circuit is one that has two or more paths for the electricity to flow.\
-![](https://lh5.googleusercontent.com/HsCg5JV9e0ELismGZOit9yRoEZNxIjGG5aS7WvGXZjCyorwj8CSeCs3sCrLGKpU3UCXygU6JsL-Wxzou2I_XlVTBwza3mKBpBS4j_dAIpISWvxpdUINr7AjKDb3jIp7A3NvNnRWBO5k_ICpxpfc9Fo8)
-
-Later on we learned basic blinking\
-For that u will need an arduino uno R3, a breadboard, resistors, a push button  and 2 LEDs.\
-![](https://lh4.googleusercontent.com/c8ZjNfNJUfAiD3LL8xkdlPZJCxuovxR0rZN4eO-kFh0xsSjgRce8Xc5FujggWCOoLhpdD8tVRg47BrRIHBCIQaaZGlLzaAwtygO5JnsbcOmum6GKipLo6Vj1a-pSSbxvG5XnyY4PHs4CAPexHi1RztE)
-
-Code :\
-// BASIC BLINKING
-
-int led = 2;
-
-int button = 3;
-
-void setup()
-
-  {
-
-pinMode(led, OUTPUT);
-
-pinMode (button, INPUT);
-
-  }
+](https://che-ann.github.io/CoddetsBootcamp2023-Che-annWirjosentono/)Mistakes: Forgot to pull origin of pre-existing changes I made.
