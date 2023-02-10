@@ -19,9 +19,9 @@ Online to Offline and Offline to Online
 -Downloaded GitHub desktop:\
 [https://desktop.github.com/
 
-](https://desktop.github.com/)-Downloaded 
+](https://desktop.github.com/)
 
--NotePad(text editor):\
+-Downloaded NotePad(text editor):\
 [https://notepad-plus-plus.org/downloads/v8.4.9/
 
 ](https://notepad-plus-plus.org/downloads/v8.4.9/)
